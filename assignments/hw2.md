@@ -21,7 +21,7 @@ Use HTML to create the irregular table shown below (10 points). You can find the
 
 * Save it as ```hw2-1.htm``` into folder ```homework```. You do not have to add link to this webpage in ```low.htm```.
 
-![hw2 demo](/images/hw2-1_demo.png) 
+![hw2 demo](./images/hw2-1_demo.png) 
 
 
 ## 2. Form (25 points)
@@ -60,7 +60,7 @@ Please build the following form, using a table. You can find the picture of soap
 
 * Save it as ```hw2-2.htm``` into folder ```homework```. You do not have to add link to this webpage in ```low.htm```.
 
-![hw2 demo](/images/hw2-2_demo.png) 
+![hw2 demo](./images/hw2-2_demo.png) 
 
 ## Submission:
 1. Commit/push to GitHub. Create tag 'hw2' for this release. (Learn [tags and release](https://help.github.com/articles/working-with-tags/).)
